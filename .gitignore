@@ -1,0 +1,3 @@
+# evita que el framework imonsh se comparta
+/src/imonsh
+out/production/MisionJava/imonsh/
