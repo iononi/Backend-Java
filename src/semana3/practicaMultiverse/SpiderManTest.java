@@ -21,7 +21,7 @@ public class SpiderManTest {
                             for (SpiderPowers spidey : spideys) {
                                 spidey.showAbilities(screen);
                                 try {
-                                    Thread.sleep(10000);
+                                    Thread.sleep(5000);
                                 } catch (InterruptedException e) {
                                     e.printStackTrace();
                                 }
