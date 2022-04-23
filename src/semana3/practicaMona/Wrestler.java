@@ -10,7 +10,7 @@ public class Wrestler extends Mona {
     }
 
     public Wrestler(String hobby, boolean haveMask, String suitColor) {
-        super.setHOBBY(hobby);
+        super.setHobby(hobby);
         this.haveMask = haveMask;
         this.suitColor = suitColor;
     }
