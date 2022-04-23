@@ -1,6 +1,6 @@
 package semana3.practicaMultiverse;
 
-public class SpiderMan {
+public abstract class SpiderMan implements SpiderPowers {
 
     private int id;
     private String name, universe, height, weight, hairColor, abilities;
