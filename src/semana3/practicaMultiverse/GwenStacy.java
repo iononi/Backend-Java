@@ -5,7 +5,8 @@ import imonsh.Screen;
 public class GwenStacy extends SpiderMan implements SpiderPowers {
 
     public GwenStacy() {
-
+        this(3, "Gwendolyne Maxine Stacy", "Earth-65", "5' 5\"", "125 lbs",
+                "Blonde", "Spider Powers");
     }
 
     public GwenStacy(int id, String name, String universe, String height, String weight, String hairColor, String abilities) {
