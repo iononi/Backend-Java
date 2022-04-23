@@ -9,7 +9,7 @@ public class InvestoCat extends Mona {
     }
 
     public InvestoCat(String hobby, boolean haveBriefcase, boolean havePipe) {
-        super.setHOBBY(hobby);
+        super.setHobby(hobby);
         this.haveBriefcase = haveBriefcase;
         this.havePipe = havePipe;
     }
