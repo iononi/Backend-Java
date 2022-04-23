@@ -32,14 +32,11 @@ public class SpiderManTest {
                 }
         );
 
-        PeterParker peter = new PeterParker(1, "Peter B Parker", "Earth-616", "5' 10\"", "167 lbs",
-                "Brown", "Spider Powers");
+        PeterParker peter = new PeterParker();
 
-        MilesMorales miles = new MilesMorales(2, "Miles Morales", "Earth-1610", "5' 8\"", "160 lbs",
-                "Black", "Spider Powers");
+        MilesMorales miles = new MilesMorales();
 
-        GwenStacy gwen = new GwenStacy(3, "Gwendolyne Maxine Stacy", "Earth-65", "5' 5\"", "125 lbs",
-                "Blonde", "Spider Powers");
+        GwenStacy gwen = new GwenStacy();
 
         spideys.add(peter);
         spideys.add(miles);
