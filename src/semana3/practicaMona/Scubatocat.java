@@ -8,7 +8,7 @@ public class Scubatocat extends Mona {
     }
 
     public Scubatocat(String hobby) {
-        super.setHOBBY(hobby);
+        super.setHobby(hobby);
     }
 
     @Override
