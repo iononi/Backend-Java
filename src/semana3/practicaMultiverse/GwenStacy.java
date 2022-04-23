@@ -2,7 +2,7 @@ package semana3.practicaMultiverse;
 
 import imonsh.Screen;
 
-public class GwenStacy extends SpiderMan implements SpiderPowers {
+public class GwenStacy extends SpiderMan {
 
     public GwenStacy() {
         this(3, "Gwendolyne Maxine Stacy", "Earth-65", "5' 5\"", "125 lbs",

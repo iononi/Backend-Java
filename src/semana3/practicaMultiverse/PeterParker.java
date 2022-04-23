@@ -2,7 +2,7 @@ package semana3.practicaMultiverse;
 
 import imonsh.Screen;
 
-public class PeterParker extends SpiderMan implements SpiderPowers {
+public class PeterParker extends SpiderMan {
 
     public PeterParker() {
         this(1, "Peter B Parker", "Earth-616", "5' 10\"", "167 lbs",
