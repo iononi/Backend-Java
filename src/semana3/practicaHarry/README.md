@@ -12,5 +12,5 @@ A continuación, se muestra la salida del programa al construirlo y ejecutarlo.
 
 ## Diagramas de clase UML
 
-![Diagramas UML practicaHarry](/diagrams/practicaHarry.svg "Diagrama UML practicaHarry")
+![Diagramas UML practicaHarry](/diagrams/practicaHarry.jpg "Diagrama UML practicaHarry")
 
