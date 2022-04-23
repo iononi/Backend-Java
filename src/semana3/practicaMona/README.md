@@ -10,3 +10,6 @@ roles que puede cumplir Mona de Octocat, mascota de GitHub.
 Como prueba de que el código de la clase Main.java funciona, adjunto evidencia al momento de ejectuarlo.
 
 ![Evidencia 1](/images/monaOctocat1.jpg "Evidencia 1")
+
+## Diagrama UML
+![Diagrama UML practicaMona](/diagrams/practicaMona.jpg "Diagrama UML practicaMona")
