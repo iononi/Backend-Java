@@ -5,7 +5,7 @@ public class InvestoCat extends Mona {
     private boolean haveBriefcase, havePipe;
 
     public InvestoCat() {
-        super.setHOBBY("Private Investigator");
+        super.setHobby("Private Investigator");
     }
 
     public InvestoCat(String hobby, boolean haveBriefcase, boolean havePipe) {
