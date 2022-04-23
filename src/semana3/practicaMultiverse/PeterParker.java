@@ -9,10 +9,6 @@ public class PeterParker extends SpiderMan {
                 "Brown", "Spider Powers");
     }
 
-    public PeterParker(int id, String name, String universe, String height, String weight, String hairColor, String abilities) {
-        super(id, name, universe, height, weight, hairColor, abilities);
-    }
-
 
     @Override
     public void webSwinging(Screen s) {

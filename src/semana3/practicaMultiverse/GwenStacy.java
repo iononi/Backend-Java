@@ -9,10 +9,6 @@ public class GwenStacy extends SpiderMan {
                 "Blonde", "Spider Powers");
     }
 
-    public GwenStacy(int id, String name, String universe, String height, String weight, String hairColor, String abilities) {
-        super(id, name, universe, height, weight, hairColor, abilities);
-    }
-
     @Override
     public void webSwinging(Screen s) {
         s.showImage("src\\semana3\\practicaMultiverse\\spiderPowers\\spiderGwenSwing.gif");

@@ -9,10 +9,6 @@ public class MilesMorales extends SpiderMan {
                 "Black", "Spider Powers");
     }
 
-    public MilesMorales(int id, String name, String universe, String height, String weight, String hairColor, String abilities) {
-        super(id, name, universe, height, weight, hairColor, abilities);
-    }
-
     public void venomBlast(Screen s) {
         s.showImage("src\\semana3\\practicaMultiverse\\spiderPowers\\venomBlast.gif");
     }
