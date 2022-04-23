@@ -5,3 +5,4 @@ out/production/MisionJava/imonsh/
 # archivos fuente de draw.io
 *.drawio
 *.dtmp
+*drawio.bkp
