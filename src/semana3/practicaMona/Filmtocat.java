@@ -3,7 +3,7 @@ package semana3.practicaMona;
 public class Filmtocat extends Mona {
 
     public Filmtocat() {
-        super.setHOBBY("Photographer");
+        super.setHobby("Photographer");
     }
 
     @Override
