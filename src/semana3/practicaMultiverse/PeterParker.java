@@ -5,7 +5,8 @@ import imonsh.Screen;
 public class PeterParker extends SpiderMan implements SpiderPowers {
 
     public PeterParker() {
-
+        this(1, "Peter B Parker", "Earth-616", "5' 10\"", "167 lbs",
+                "Brown", "Spider Powers");
     }
 
     public PeterParker(int id, String name, String universe, String height, String weight, String hairColor, String abilities) {
