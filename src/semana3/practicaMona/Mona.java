@@ -10,11 +10,11 @@ public abstract class Mona {
 
     }
 
-    public void sethobby(String hobby) {
-        hobby = hobby;
+    public void setHobby(String hobby) {
+        this.hobby = hobby;
     }
 
-    public String gethobby() {
+    public String getHobby() {
         return hobby;
     }
 
