@@ -7,7 +7,7 @@ public class Miner extends Mona {
     }
 
     public Miner(String hobby) {
-        super.setHOBBY(hobby);
+        super.setHobby(hobby);
     }
 
     @Override
