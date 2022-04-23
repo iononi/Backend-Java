@@ -2,7 +2,7 @@ package semana3.practicaMona;
 
 public abstract class Mona {
 
-    private String HOBBY;
+    private String hobby;
     private final String NAME = "Mona";
     private final String EYES_COLOR = "Light brown";
 
@@ -10,12 +10,12 @@ public abstract class Mona {
 
     }
 
-    public void setHOBBY(String hobby) {
-        HOBBY = hobby;
+    public void sethobby(String hobby) {
+        hobby = hobby;
     }
 
-    public String getHOBBY() {
-        return HOBBY;
+    public String gethobby() {
+        return hobby;
     }
 
     public String getNAME() {
@@ -29,7 +29,7 @@ public abstract class Mona {
     @Override
     public String toString() {
         return String.format("Hi! My name is %s, I have %s eyes. My hobby is %s ", NAME, EYES_COLOR,
-                HOBBY);
+                hobby);
     }
 
     public abstract String activity();
