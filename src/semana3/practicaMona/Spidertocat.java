@@ -3,7 +3,7 @@ package semana3.practicaMona;
 public class Spidertocat extends Mona {
 
     public Spidertocat() {
-        super.setHOBBY("Spidertocat");
+        super.setHobby("Spidertocat");
     }
 
     @Override
