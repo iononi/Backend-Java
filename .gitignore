@@ -1,6 +1,9 @@
-# evita que el framework imonsh se comparta
+# evita que el framework imonsh se comparta #
 /src/imonsh
-out/production/MisionJava/imonsh/
+out/*
+
+# IntelliJ Ultimate specific #
+.idea/
 
 # archivos fuente de draw.io
 *.drawio
